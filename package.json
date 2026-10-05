@@ -1,0 +1,9 @@
+{
+  "name": "ed-caesar-store",
+  "version": "3.0.0",
+  "private": true,
+  "description": "ED CAESAR Silver Jewelry e-commerce starter",
+  "type": "module",
+  "scripts": {"start":"node server.js","dev":"node --watch server.js"},
+  "dependencies": {"express":"^5.1.0","helmet":"^8.1.0","express-rate-limit":"^8.2.1"}
+}

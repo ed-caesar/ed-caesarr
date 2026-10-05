@@ -1,0 +1,7 @@
+[
+  {"id":"kolye-1","name":"Kalp Işıltısı Kolye","price":2890,"category":"Kolye","stock":10,"active":true},
+  {"id":"kupe-1","name":"Zarif Halka Küpe","price":2450,"category":"Küpe","stock":10,"active":true},
+  {"id":"yuzuk-1","name":"Lüks Tektaş Yüzük","price":3990,"category":"Yüzük","stock":10,"active":true},
+  {"id":"bileklik-1","name":"Işıltı Bileklik","price":3250,"category":"Bileklik","stock":10,"active":true},
+  {"id":"kolye-2","name":"Şans Kolyesi","price":2490,"category":"Kolye","stock":10,"active":true}
+]
